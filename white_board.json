@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Daily Word",
+    "date": "2024-10-02",
+    "description": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+    "postBy": "Gatekeeper",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-109.jpg",
+    "isImportant": true
+  },
+  {
+    "title": "New Feature Release",
+    "date": "2024-08-16",
+    "description": "We have released a new feature today! We have released a new feature today! We have released a new feature today! We have released a new feature today!",
+    "postBy": "Accounting Department",
+    "imageUrl": "",
+    "isImportant": false
+  },
+  {
+    "title": "New Feature Release",
+    "date": "2024-08-16",
+    "description": "We have released a new feature today! We have released a new feature today! We have released a new feature today! \n\nWe have released a new feature today! We have released a new feature today! We have released a new feature today! \n\nWe have released a new feature today!",
+    "postBy": "Administrator",
+    "imageUrl": "",
+    "isImportant": true
+  },
+  {
+    "title": "New Feature Release",
+    "date": "2024-08-16",
+    "description": "We have released a new feature today!",
+    "postBy": "Dr. Jaun Dela Cruz",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-117.jpg",
+    "isImportant": false
+  },
+  {
+    "title": "Maintenance Downtime",
+    "date": "2024-08-20",
+    "description": "The system will be down for maintenance on August 20th.",
+    "postBy": "Admin",
+    "imageUrl": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg",
+    "isImportant": true
+  }
+]
